@@ -46,7 +46,7 @@
         "heading_size": "h0",
         "description": "",
         "show_description": false,
-        "description_style": "uppercase",
+        "description_style": "subtitle",
         "collection": "all",
         "products_to_show": 11,
         "columns_desktop": 4,
@@ -132,6 +132,7 @@
       ],
       "settings": {
         "class_name": "footer_newsletter",
+        "newsletter_img": "shopify:\/\/shop_images\/Artwork.png",
         "color_scheme": "",
         "full_width": false,
         "padding_top": 100,
