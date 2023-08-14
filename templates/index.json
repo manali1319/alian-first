@@ -96,6 +96,7 @@
         "47b702aa-2cc9-4748-b502-d449ddcdd949",
         "fa4c1fac-6caf-4643-b034-37e83bb6d70f"
       ],
+      "disabled": true,
       "custom_css": [
         ".why_singal {align-items: center; justify-content: space-between;}"
       ],
