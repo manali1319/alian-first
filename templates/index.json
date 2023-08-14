@@ -72,6 +72,7 @@
       "blocks": {
         "08654a0d-d6e1-48f0-89ec-44a12d30fb55": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "sub_text1": "<p>mmmm<\/p>",
             "sub_img1": "shopify:\/\/shop_images\/LOGO_TRANSPARENCY_1_2_0b9096c5-e561-4a7a-8716-a793941ecc43.png"
@@ -100,7 +101,7 @@
       ],
       "settings": {
         "heading": "<p>manali<\/p>",
-        "section_img": "shopify:\/\/shop_images\/shutterstock_2156624773_edited_1.png",
+        "section_img": "shopify:\/\/shop_images\/Mask_group_3.png",
         "background_color": "#03a3ff"
       }
     },
